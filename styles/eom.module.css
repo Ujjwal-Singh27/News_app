@@ -1,0 +1,16 @@
+.main{
+    flex: 1; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.eom{
+    text-align: center;
+}
+
+.eom img{
+    width: 250px;
+    border-radius: 100%;
+}
